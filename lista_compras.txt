@@ -2,5 +2,4 @@ pollo
 huevos
 bananas
 alfajores
-manteca
 manzanas
